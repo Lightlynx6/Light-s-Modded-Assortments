@@ -1,6 +1,2 @@
 # Light-s-Modded-Assortments
-TEst
-t
-t
-t
-tt
+This is the main wiki for all my mods.
